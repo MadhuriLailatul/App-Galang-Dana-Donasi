@@ -1,4 +1,24 @@
  # Galang-Dana-Donasi
+ 
+Aplikasi Galang Dana Donasi Android ini dikembangkan sebagai bagian dari proyek pengembangan aplikasi mobile untuk tugas pemrograman di **Program Studi Pendidikan Teknologi Informasi**, **Universitas Negeri Surabaya**. Aplikasi ini dibuat menggunakan **Android Studio** dengan bahasa pemrograman **Java** dan desain UI **XML**. Untuk penyimpanan data, aplikasi ini menggunakan **Firebase** sebagai database backend.
+
+## Url Prodi
+berikut adalah Url Prodi Pendidikan Teknologi Informasi
+https://pendidikan-ti.ft.unesa.ac.id/
+
+## Tujuan Aplikasi
+
+Aplikasi ini bertujuan untuk menyediakan platform bagi pengguna untuk mengajukan donasi dan melakukan donasi. Pengguna dapat mengajukan donasi, melakukan donasi, serta menyimpan riwayat donasi dari donasi yang telah dilakukan.
+
+## Proses Pengembangan
+
+Proyek ini masih dalam tahap pengembangan dan beberapa fitur masih dalam perbaikan.
+
+## Anggota Tim terdiri dari 3 orang anggota kelompok 8 Kelas PTIB23
+Madhuri Lailatul Hamidah (23050974057)
+Febti Sofia Loren        (23050974058)
+Zaidan Fakhri Robbani    (23050974052)
+
 
 ## 📄 License
 
