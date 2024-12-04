@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558263438850",
+    "project_id": "galangdana-503ce",
+    "storage_bucket": "galangdana-503ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558263438850:android:6b7b65dc7d4908a608211b",
+        "android_client_info": {
+          "package_name": "com.azhar.donasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg4BmOX6FWnXhaMaOpl-Eo1SubrLW-cA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

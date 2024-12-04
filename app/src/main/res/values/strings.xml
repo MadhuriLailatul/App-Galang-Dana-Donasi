@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Galang Dana</string>
+    <string name="login">Login</string>
+    <string name="please_sign_in_to_continue">Please Sign In to Continue</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="didn_t_have_an_account">Didn\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="please_register_to_log_in">Please Register to Log In</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
