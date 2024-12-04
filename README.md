@@ -15,9 +15,9 @@ Aplikasi ini bertujuan untuk menyediakan platform bagi pengguna untuk mengajukan
 Proyek ini masih dalam tahap pengembangan dan beberapa fitur masih dalam perbaikan.
 
 ## Anggota Tim terdiri dari 3 orang anggota kelompok 8 Kelas PTIB23
-Madhuri Lailatul Hamidah (23050974057)
-Febti Sofia Loren        (23050974058)
-Zaidan Fakhri Robbani    (23050974052)
+1. **Madhuri Lailatul Hamidah (23050974057)**
+2. **Febti Sofia Loren        (23050974058)**
+3. **Zaidan Fakhri Robbani    (23050974052)**
 
 
 ## 📄 License
